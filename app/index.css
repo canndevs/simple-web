@@ -1,0 +1,34 @@
+body {
+    background-color: #111111;
+    font-family: 'Poppins', sans-serif;
+}
+
+.me {
+    margin-top: 250px;
+    margin-left: 100px;
+    color: #BE5453;
+    font-style: normal;
+    font-size: medium;
+}
+
+.dc-box {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.box {
+    border: 5px #341D1D solid;
+    margin-top: 200px;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 5px;
+    text-decoration: none;
+    color: #BE5453;
+    background-color: #341D1D;
+}
+
+.fab {
+    padding-top: 11px;
+    padding-left: 10px;
+    font-size: 30px;
+}
